@@ -1,8 +1,7 @@
 <?php
 apache_setenv('no-gzip', 1);
 ini_set('zlib.output_compression', 0);
-<!DOCTYPE html>
-<html lang="en">
+
 <head>
 	<link rel="stylesheet" href="style.css">
 	<meta charset="UTF-8">
